@@ -1,0 +1,100 @@
+.header {
+    font-size: 50px;
+    text-align: center;
+    color: black;
+}
+
+.p2 {
+    font-size: 35px;
+}
+
+.p3 {
+    font-size: 35px;
+}
+
+.p4 {
+    font-size: 35px;
+}
+
+.p5 {
+    font-size: 35px;
+}
+
+.navbar {
+    border-width: 5px;
+    border-color: black;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.search{
+  position: absolute;
+  left: 39%;
+  bottom: 65%;
+  color:black; 
+
+}
+.form1 {
+    background-color:gray;
+    width: 300px;
+    height: 44px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color:black; 
+  }
+
+  input {
+    all: unset;
+    font: 25px system-ui;
+    color: #fff;
+    height: 100%;
+    width: 100%;
+    padding: 6px 10px;
+  }
+
+  ::placeholder {
+    color: #fff;
+    opacity: 0.7; 
+  }
+
+  button {
+    all: unset;
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+  }
+  
+  svg {
+    color: #fff;
+    fill: currentColor;
+    width: 25px;
+    height: 25px;
+    padding: 10px;
+  }
+
+  .p1 {
+    font-size: 25px;
+  }
+
+  .p2 {
+    font-size: 25px;
+    text-align: right;
+  }
+ 
+  #homeimg1 {
+    position:relative;
+    top: -150px;
+  }
+
+  #homeimg2 {
+    position:relative;
+    bottom: -150px;
+  }
+
+  .p2t1 {
+    text-align: left;
+    color: gray;
+    font-size: 25px;
+  }
